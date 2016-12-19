@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Diary Planner</string>
+    <string name="bt_main">Diary acess</string>
+    <string name="bt_trad">French version</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="notification">Notification www.tutos-android.com</string>
+    <string name="notification_title">Ma premiere notification www.tutos-android.com</string>
+    <string name="notification_desc">Cliquez sur moi je suis une notification</string>
+
+
+</resources>

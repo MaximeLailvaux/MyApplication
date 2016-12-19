@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Diary Planner</string>
+    <string name="bt_main">Mes rendez-vous</string>
+    <string name="bt_trad">Version anglaise</string>
+</resources>
